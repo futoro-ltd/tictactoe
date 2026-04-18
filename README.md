@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-git 
+A modern Tic Tac Toe game built with Next.js, featuring Player vs Computer gameplay with an AI opponent.
 
 ```
 This code was made entirely using vibe coding via OpenCode (using the Big Pickle model). Only the prompts and this message block where directly made by human hand!
